@@ -23,8 +23,7 @@
                 "scope": ["$APPCONFIG/**", "$APPCACHE/**"]
             },
             "dialog": {
-                "open": true,
-                "save": true
+                "open": true
             }
         },
         "windows": [
