@@ -18,7 +18,7 @@ devDependencies:
     version: 1.5.11
   '@tsconfig/svelte':
     specifier: ^5.0.2
-    version: 5.0.2
+    version: 5.0.3
   svelte:
     specifier: ^4.2.8
     version: 4.2.12
@@ -564,8 +564,8 @@ packages:
       '@tauri-apps/cli-win32-x64-msvc': 1.5.11
     dev: true
 
-  /@tsconfig/svelte@5.0.2:
-    resolution: {integrity: sha512-BRbo1fOtyVbhfLyuCWw6wAWp+U8UQle+ZXu84MYYWzYSEB28dyfnRBIE99eoG+qdAC0po6L2ScIEivcT07UaMA==}
+  /@tsconfig/svelte@5.0.3:
+    resolution: {integrity: sha512-Ms0t9K0oxioSb0lrZ5NRysx0nE/KsojYOG+db9v6wSaU/+P37vc0WRmh1QE1c8IAtTniD4yEhffGQuTKF8uaPw==}
     dev: true
 
   /@types/estree@1.0.5:
